@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MelonHelper">
+    <output-path>$USER_HOME$/Desktop/CraftLand/Server/plugins</output-path>
+    <root id="archive" name="MelonHelper.jar">
+      <element id="module-output" name="MelonHelper" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+    </root>
+  </artifact>
+</component>

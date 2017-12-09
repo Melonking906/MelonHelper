@@ -1,0 +1,11 @@
+name: MelonHelper
+main: com.meloncraft.helper.MelonHelper
+version: 0.2
+author: Melonking
+description: Patch code for Meloncraft
+
+commands:
+  setrace:
+    description: Sets your race /setrace <race> (player)
+  giveeveryone:
+    description: Give everyone the item in your hand!
